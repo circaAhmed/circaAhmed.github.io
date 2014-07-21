@@ -4,7 +4,7 @@
   <title><![CDATA[Category: about | Ahmed Al-Bahar]]></title>
   <link href="http://circaAhmed.github.io/blog/categories/about/atom.xml" rel="self"/>
   <link href="http://circaAhmed.github.io/"/>
-  <updated>2014-07-21T15:23:34-05:00</updated>
+  <updated>2014-07-21T15:31:46-05:00</updated>
   <id>http://circaAhmed.github.io/</id>
   <author>
     <name><![CDATA[Ahmed Al-Bahar]]></name>
@@ -18,109 +18,7 @@
     <link href="http://circaAhmed.github.io/blog/2014/07/20/who-i-am-and-why-im-here/"/>
     <updated>2014-07-20T14:38:41-05:00</updated>
     <id>http://circaAhmed.github.io/blog/2014/07/20/who-i-am-and-why-im-here</id>
-    <content type="html"><![CDATA[<p>Test Test.</p>
-
-<p><a href="http://effectif.com/nesta">Nesta CMS</a></p>
-
-<p><a href="http://effectif.com/nesta" title="Nesta is a superb CMS">Nesta CMS</a></p>
-
-<ul>
-<li>Bullet 1</li>
-<li>Bullet 2
-
-<ul>
-<li>Bullet 2a</li>
-<li>Bullet 2b</li>
-</ul>
-</li>
-<li>Bullet 3</li>
-</ul>
-
-
-<!--more-->
-
-
-<ol>
-<li>Baked potato</li>
-<li>Baked beans</li>
-<li>Pepper</li>
-</ol>
-
-
-<blockquote><p>One thing was certain, that the white kitten had had nothing
-to do with it &mdash; it was the black kitten&rsquo;s fault entirely. For
-the white kitten had been having its face washed by the old cat,
-for the last quarter of an hour (and bearing it pretty well,
-considering) so you see that it couldn&rsquo;t have had any hand in
-the mischief. <cite>Lewis Carroll, Through the Looking
-Glass</cite></p></blockquote>
-
-<p>It&rsquo;s <strong>very</strong> easy to do <strong>bold</strong> and <em>italics</em>:</p>
-
-<p>Paragraphs are very easy; separate them with a blank line. You can write your paragraph on one long line,
-or you can
-wrap the lines yourself
-if you prefer.</p>
-
-<p>This section was marked up like so:</p>
-
-<h1>Markdown Cheat Sheet</h1>
-
-<h2>Section Headings</h2>
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Javascript Array Syntax <a href="http://j.mp/pPUUmW">http://j.mp/pPUUmW</a> MDN Documentation </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">arr1</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="nx">arrayLength</span><span class="p">);</span>
-</span><span class='line'><span class="kd">var</span> <span class="nx">arr2</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Array</span><span class="p">(</span><span class="nx">element0</span><span class="p">,</span> <span class="nx">element1</span><span class="p">,</span> <span class="o">&amp;</span><span class="nx">hellip</span><span class="p">;,</span> <span class="nx">elementN</span><span class="p">);</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Coffeescript Tricks start:51 mark:51,54-55 </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-</pre></td><td class='code'><pre><code class='coffeescript'><span class='line'><span class="o">&lt;/</span><span class="nx">p</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="nx">Given</span> <span class="nx">an</span> <span class="nx">alphabet</span><span class="o">:&lt;/</span><span class="nx">h1</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nv">alphabet = </span><span class="o">&amp;</span><span class="nx">lsquo</span><span class="p">;</span><span class="nx">abcdefghijklmnopqrstuvwxyz</span><span class="o">&amp;</span><span class="nx">rsquo</span><span class="p">;</span><span class="o">&lt;/</span><span class="nx">p</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="nx">Iterate</span> <span class="nx">over</span> <span class="nx">part</span> <span class="k">of</span> <span class="nx">the</span> <span class="nx">alphabet</span><span class="o">:&lt;/</span><span class="nx">h1</span><span class="o">&gt;</span>
-</span><span class='line'>
-</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span> <span class="nx">letter</span> <span class="k">for</span> <span class="nx">letter</span> <span class="k">in</span> <span class="nx">alphabet</span><span class="p">[</span><span class="mi">4</span><span class="p">..</span><span class="mi">8</span><span class="p">]</span>
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
-
-<p><code>
-$ git clone git@github.com:imathis/octopress.git # fork octopress
-</code></p>
-
-<p>``` ruby Discover if a number is prime <a href="http://www.noulakaz.">http://www.noulakaz.</a> net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/ Source Article
-class Fixnum
-  def prime?</p>
-
-<pre><code>('1' * self) !~ /^1?$|^(11+?)\1+$/
-</code></pre>
-
-<p>  end
-end
-```</p>
-
-<p>``` coffeescript Coffeescript Tricks start:51 mark:52,54-55</p>
-
-<h1>Given an alphabet:</h1>
-
-<p>alphabet = &lsquo;abcdefghijklmnopqrstuvwxyz&rsquo;</p>
-
-<h1>Iterate over part of the alphabet:</h1>
-
-<p>console.log letter for letter in alphabet[4..8]
-```</p>
+    <content type="html"><![CDATA[<p>To be Added!</p>
 ]]></content>
   </entry>
   
