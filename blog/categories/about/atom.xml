@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: about | Ahmed Al-Bahar]]></title>
+  <link href="http://ahmedalbahar.com/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://ahmedalbahar.com/"/>
+  <updated>2014-07-23T15:13:09-05:00</updated>
+  <id>http://ahmedalbahar.com/</id>
+  <author>
+    <name><![CDATA[Ahmed Al-Bahar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[who am I and why I’m here]]></title>
+    <link href="http://ahmedalbahar.com/blog/2014/07/20/who-i-am-and-why-im-here/"/>
+    <updated>2014-07-20T14:38:41-05:00</updated>
+    <id>http://ahmedalbahar.com/blog/2014/07/20/who-i-am-and-why-im-here</id>
+    <content type="html"><![CDATA[<p>To be Added! Test test today is Wednesday.</p>
+]]></content>
+  </entry>
+  
+</feed>
