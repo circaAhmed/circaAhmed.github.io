@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://ahmedalbahar.com/blog/2014/07/24/my-visit-to-tablexi/</loc>
+    <lastmod>2014-07-24T19:13:13-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://ahmedalbahar.com/blog/2014/07/24/my-visit-to-steelseries/</loc>
     <lastmod>2014-07-24T17:04:19-05:00</lastmod>
     <priority>0.8</priority>
@@ -20,24 +26,30 @@
     <priority>0.8</priority>
   </url>
   
+  <url>
+    <loc>http://ahmedalbahar.com/blog/2014/07/20/who-i-am-and-why-im-here/</loc>
+    <lastmod>2014-07-20T14:38:41-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://ahmedalbahar.com/</loc>
-    <lastmod>2014-07-24T19:06:40-05:00</lastmod>
+    <lastmod>2014-07-24T19:36:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://ahmedalbahar.com/blog/archives/</loc>
-    <lastmod>2014-07-24T19:06:40-05:00</lastmod>
+    <lastmod>2014-07-24T19:36:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ahmedalbahar.com/about/</loc>
-    <lastmod>2014-07-24T19:06:40-05:00</lastmod>
+    <lastmod>2014-07-24T19:36:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
