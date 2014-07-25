@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: about | Ahmed Al-Bahar]]></title>
+  <link href="http://ahmedalbahar.com/blog/categories/about/atom.xml" rel="self"/>
+  <link href="http://ahmedalbahar.com/"/>
+  <updated>2014-07-24T19:06:40-05:00</updated>
+  <id>http://ahmedalbahar.com/</id>
+  <author>
+    <name><![CDATA[Ahmed Al-Bahar]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why I decided to start blogging]]></title>
+    <link href="http://ahmedalbahar.com/blog/2014/07/23/why-i-decided-to-start-blogging/"/>
+    <updated>2014-07-23T14:38:41-05:00</updated>
+    <id>http://ahmedalbahar.com/blog/2014/07/23/why-i-decided-to-start-blogging</id>
+    <content type="html"><![CDATA[<p>After Graduating from <a href="http://www.devbootcamp.com" target="_blank">Dev Bootcamp</a> a couple of weeks ago, I find myself at loss for words and I feel this blog will not only serve as a vehicle for self reflection but also be a way for me to document my experiences working my way through the MIT Sloan MBA program for the next 2 years.</p>
+
+<p align="center">
+  <img src = http://i.imgur.com/ZYJSWkk.jpg/ width="450" height="450" >
+</p>
+
+
+<p>Some major themes I hope to cover include:
+* Career journey transitioning to the tech industry
+* Fumbling my way to coding fluency
+* Higher Education thoughts and experiences</p>
+
+<p>I hope you enjoy!</p>
+]]></content>
+  </entry>
+  
+</feed>
