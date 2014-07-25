@@ -3,7 +3,7 @@ layout: post
 title: "What is Devbootcamp?"
 date: 2014-07-23 16:40:38 -0500
 comments: false
-categories: 
+categories: [DevBootcamp]
 ---
 
 <a href="http://www.devbootcamp.com" target="_blank">Dev Bootcamp</a> is one of the first programming bootcamps to crop up since its inception in 2012. There are now over 50 such bootcamps across the country. 
