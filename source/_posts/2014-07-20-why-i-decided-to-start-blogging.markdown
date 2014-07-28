@@ -13,9 +13,9 @@ After Graduating from <a href="http://www.devbootcamp.com" target="_blank">Dev B
 </p>
 
 Some major themes I hope to cover include:
-* Career journey transitioning to the tech industry
-* Fumbling my way to coding fluency
-* Higher Education thoughts and experiences
++ Career journey transitioning to the tech industry
++ Fumbling my way to coding fluency
++ Higher Education thoughts and experiences
 
 I hope you enjoy!
 
