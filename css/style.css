@@ -120,8 +120,15 @@
 	@keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-2250px,0,0); -webkit-transform: translate3d(-2250px,0,0); -o-transform: translate3d(-2250px,0,0); -ms-transform: translate3d(-2250px,0,0); transform: translate3d(-2250px,0,0); } }
 
 	#bg {
-		background-size: 2250px auto;
-		width: 6750px;
+		/*background-size: 2250px auto;
+		width: 6750px;*/
+		 position: fixed; 
+  		top: 0; 
+  		left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
 	}
 
 /* Overlay */
@@ -218,7 +225,6 @@
 		#header p {
 			font-size: 1.5em;
 			margin: 0.75em 0 0.25em 0;
-			font-weight: 600;
 
 		}
 
